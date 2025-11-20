@@ -163,8 +163,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ### Prerequisites
 
-- Flutter SDK: `>=3.16.0`
-- Dart SDK: `>=3.2.0`
+- Flutter SDK: `>=3.35.6`
+- Dart SDK: `>=3.9.2`
 - Android Studio / VS Code
 - iOS Simulator / Android Emulator
 
