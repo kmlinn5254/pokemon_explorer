@@ -97,12 +97,12 @@ This project follows **Clean Architecture** principles with **BLoC** for state m
 ### Core Technologies
 | Technology | Version | Purpose |
 |------------|---------|---------|
-| Flutter | 3.16+ | UI Framework |
-| Dart | 3.2+ | Programming Language |
-| flutter_bloc | ^8.1.3 | State Management |
-| get_it | ^7.6.4 | Dependency Injection |
-| dio | ^5.4.0 | HTTP Client |
-| drift | ^2.14.0 | Local Database (SQLite) |
+| Flutter | 3.35+   | UI Framework |
+| Dart | 3.9+    | Programming Language |
+| flutter_bloc | ^9.1.1  | State Management |
+| get_it | ^9.0.5  | Dependency Injection |
+| dio | ^5.9.0  | HTTP Client |
+| drift | ^2.29.0 | Local Database (SQLite) |
 
 ### Key Packages
 ```yaml
